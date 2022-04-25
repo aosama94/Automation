@@ -1,0 +1,5 @@
+.env
+node_modules
+chromedriver.log
+html-reports
+logs
