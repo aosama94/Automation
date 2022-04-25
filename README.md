@@ -1,6 +1,7 @@
 				                       	Test Automation framework
 1- installation 
-   * add node modules: npm i
+   * add node modules: >npm npm init
+   * install nightwatch >npm inistall nightwatch
    * install eslint --> npm install eslint 
    * update .env.example and rename it (.env) and add our environment 
    * update chrome driver if needed --> npm install chromedriver@versionNumber
