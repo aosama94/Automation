@@ -1,6 +1,7 @@
 				                       	Test Automation framework
 1- installation 
-   * add node modules: >npm init
+   * add node modules: >npm install
+   * create package.json: >npm init
    * install nightwatch >npm inistall nightwatch
    * install eslint --> npm install eslint 
    * update .env.example and rename it (.env) and add our environment 
